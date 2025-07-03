@@ -4,3 +4,6 @@
 #### Variables are containers for storing data values.
 
 🔗 [Step_02 Data_type](https://github.com/MoizScriptz/Python/tree/main/02_Data_Type)
+## Built-in Data Types
+#### In programming, data type is an important concept.
+#### Variables can store data of different types, and different types can do different things.
