@@ -7,3 +7,9 @@
 ## Built-in Data Types
 #### In programming, data type is an important concept.
 #### Variables can store data of different types, and different types can do different things.
+
+🔗 [Step_03_Operator](https://github.com/MoizScriptz/Python/tree/main/03_Operator)
+## Python Operators
+#### Operators are used to perform operations on variables and values.
+
+

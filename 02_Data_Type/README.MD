@@ -76,3 +76,8 @@ print(random.randint(1, 10))
 #### In programming you often need to know if an expression is True or False.
 #### You can evaluate any expression in Python, and get one of two answers, True or False.
 #### When you compare two values, the expression is evaluated and Python returns the Boolean answer:
+
+#### Python also has many built-in functions that return a boolean value, like the isinstance() function, which can be used to determine if an object is of a certain data type:
+```python
+x = 2543
+print(isinstance(x,int))
