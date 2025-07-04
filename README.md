@@ -1,37 +1,65 @@
-# 🐍 Python With MoizScriptz!
-🔗 [Step_01 Variable](https://github.com/MoizScriptz/Python/tree/main/01_variable)
-## Variables
-#### Variables are containers for storing data values.
+<h1 align="center">🐍 Python Learning Series 🚀</h1>
 
-🔗 [Step_02 Data_type](https://github.com/MoizScriptz/Python/tree/main/02_Data_Type)
-## Built-in Data Types
-#### In programming, data type is an important concept.
-#### Variables can store data of different types, and different types can do different things.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Beginner-Friendly-✔️-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learn%20By-Practice-orange?style=for-the-badge" />
+</p>
 
-🔗 [Step_03_Operator](https://github.com/MoizScriptz/Python/tree/main/03_Operator)
-## Python Operators
-#### Operators are used to perform operations on variables and values.
+<p align="center">
+  🌟 Master Python step-by-step with real code examples and folders arranged in a learning path.
+</p>
 
-🔗 [Step_04_List](https://github.com/MoizScriptz/Python/tree/main/04_List)
-## List
-#### Lists are used to store multiple items in a single variable.
+---
 
-#### Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+## 📚 Folder Structure
 
-#### Lists are created using square brackets:
+| 🚩 No. | 📂 Folder Name            | 📘 Topic                        | 🔗 Link |
+|-------|---------------------------|----------------------------------|--------|
+| 01    | `01_variable`             | Variables in Python             | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/01_variable) |
+| 02    | `02_Data_Type`            | Data Types (int, str, list...)  | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/02_Data_Type) |
+| 03    | `03_Operators`            | Arithmetic, Logical, etc.       | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/03_Operators) |
+| 04    | `04_Conditionals`         | If / Else Statements            | [📂 Open](https://github.com/your-username/your-repo/tree/main/04_Conditionals) |
+| 05    | `05_Loops`                | For / While Loops               | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/05_Loops) |
+| 06    | `06_Functions`            | Functions and Arguments         | [📂 Open](https://github.com/your-username/your-repo/tree/main/06_Functions) |
+| 07    | `07_Collections`          | List, Tuple, Set, Dict          | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/07_Collections) |
+| 08    | `08_File_Handling`        | Read & Write Files              | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/08_File_Handling) |
+| 09    | `09_Modules`              | Modules & Imports               | [📂 Open](https://github.com/your-username/your-repo/tree/main/09_Modules) |
+| 10    | `10_OOP`                  | Classes & OOP Concepts          | [📂 Open](https://github.com/your-username/your-repo/tree/main/10_OOP) |
 
-🔗 [Step_05_Tuples](https://github.com/MoizScriptz/Python/tree/main/05_Tuples)
-## Tuple
-#### Tuples are used to store multiple items in a single variable.
+---
 
-#### Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+## 🧠 Why This Repo?
 
-#### A tuple is a collection which is ordered and unchangeable.
+✨ Learn Python fundamentals step-by-step  
+🧩 Each folder has real Python files and code  
+📈 Great for self-learners, students & developers  
+🔥 Fully beginner-friendly and practical
 
-#### Tuples are written with round brackets.
+---
 
-🔗 [Step_06_Set](https://github.com/MoizScriptz/Python/tree/main/06_Set)
-## Set
-#### Sets are used to store multiple items in a single variable.
+## 🛠 Tools Used
 
-#### Set is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Tuple, and Dictionary, all with different qualities and usage.
+- 🐍 Python 3.x
+- 📁 Git & GitHub
+- 💻 VS Code / Jupyter Notebook
+
+---
+
+## 🎯 Author
+
+**Abdul Moiz** 
+📬 [GitHub Profile](https://github.com/MoizScriptz)  
+📫 moizscriptz@gmail.com
+
+---
+
+## 🌟 Enjoying the Journey?
+
+If this repo helped you learn something new or made Python easier for you...
+
+<p align="center">
+  <strong>Give it a ⭐️ and share with friends!</strong><br><br>
+  <img src="https://media.giphy.com/media/iigxL5zX3dZNIZ3skY/giphy.gif" width="300" alt="Agentic AI Assistant" />
+</p>
+
