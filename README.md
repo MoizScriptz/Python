@@ -20,4 +20,18 @@
 
 #### Lists are created using square brackets:
 
+🔗 [Step_05_Tuples](https://github.com/MoizScriptz/Python/tree/main/05_Tuples)
+## Tuple
+#### Tuples are used to store multiple items in a single variable.
 
+#### Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Set, and Dictionary, all with different qualities and usage.
+
+#### A tuple is a collection which is ordered and unchangeable.
+
+#### Tuples are written with round brackets.
+
+🔗 [Step_06_Set](https://github.com/MoizScriptz/Python/tree/main/06_Set)
+## Set
+#### Sets are used to store multiple items in a single variable.
+
+#### Set is one of 4 built-in data types in Python used to store collections of data, the other 3 are List, Tuple, and Dictionary, all with different qualities and usage.

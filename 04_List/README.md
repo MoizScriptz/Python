@@ -15,3 +15,4 @@ Python provides built-in methods that you can use to work with lists:
 | `remove()` | Removes the first item with the specified value                             |
 | `reverse()`| Reverses the order of the list                                              |
 | `sort()`   | Sorts the list in ascending order                                           |
+
