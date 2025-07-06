@@ -21,7 +21,7 @@
 | 03    | `03_Operators`            | Arithmetic, Logical, etc.       | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/03_Operators) |
 | 04    | `04_Conditionals`         | If / Else Statements            | [📂 Open](https://github.com/your-username/your-repo/tree/main/04_Conditionals) |
 | 05    | `05_Loops`                | For / While Loops               | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/05_Loops) |
-| 06    | `06_Functions`            | Functions and Arguments         | [📂 Open](https://github.com/your-username/your-repo/tree/main/06_Functions) |
+| 06    | `06_Functions`            | Functions and Arguments         | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/06_Functions) |
 | 07    | `07_Collections`          | List, Tuple, Set, Dict          | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/07_Collections) |
 | 08    | `08_File_Handling`        | Read & Write Files              | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/08_File_Handling) |
 | 09    | `09_Modules`              | Modules & Imports               | [📂 Open](https://github.com/your-username/your-repo/tree/main/09_Modules) |
