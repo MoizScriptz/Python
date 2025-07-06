@@ -25,7 +25,7 @@
 | 07    | `07_Collections`          | List, Tuple, Set, Dict          | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/07_Collections) |
 | 08    | `08_File_Handling`        | Read & Write Files              | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/08_File_Handling) |
 | 09    | `09_Modules`              | Modules & Imports               | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/09_Modules) |
-| 10    | `10_OOP`                  | Classes & OOP Concepts          | [📂 Open](https://github.com/your-username/your-repo/tree/main/10_OOP) |
+| 10    | `10_OOP`                  | Classes & OOP Concepts          | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/10_OOP) |
 
 ---
 
