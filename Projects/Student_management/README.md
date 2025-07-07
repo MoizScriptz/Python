@@ -58,12 +58,6 @@ python setup.py
 
 ---
 
-## 📸 Screenshots
-
-> Add your terminal or GUI screenshots here (if any).
-> You can use the `![output](/Volumes/DevHub/Python/YT_Python/Projects/Student_management/output.png)` format.
-
----
 
 ## 📁 Project Structure
 
