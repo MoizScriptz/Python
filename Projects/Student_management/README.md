@@ -34,7 +34,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/MoizScriptz/Python/tree/main/Projects/Student_management.git
+git clone https://github.com/MoizScriptz/Python/tree/main/Projects/Student_management
 cd student-management-system
 python setup.py
 ```
@@ -61,7 +61,7 @@ python setup.py
 ## 📸 Screenshots
 
 > Add your terminal or GUI screenshots here (if any).
-> You can use the `![Alt Text](image-path.png)` format.
+> You can use the `![output](/Volumes/DevHub/Python/YT_Python/Projects/Student_management/output.png)` format.
 
 ---
 
@@ -80,7 +80,7 @@ student-management-system/
 ## 👨‍💻 Author
 
 **Abdul Moiz**  
-🔗 [GitHub](https://github.com/your-username)  
+🔗 [GitHub](https://github.com/MoizScriptz)  
 
 ---
 
