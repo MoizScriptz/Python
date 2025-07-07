@@ -35,7 +35,7 @@
 
 | 📂 Folder Name       | 📘 Project Title              | 🔗 Link |
 |----------------------|-------------------------------|--------|
-| `what ever`    | Fake News Detector            | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/11_Mini_Project) |
+| `Student_management`    | Student Management System           | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/Projects/Student_management) |
 | `12_Mini_Calculator` | Simple Calculator App         | [📂 Open](https://github.com/MoizScriptz/Python/tree/main/12_Mini_Calculator) |
 
 
